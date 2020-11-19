@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "xl2csv", "xl2csv\xl2csv.vbproj", "{A964B79A-EA28-4AD1-8DCA-EB7BAB0FC70C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A964B79A-EA28-4AD1-8DCA-EB7BAB0FC70C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A964B79A-EA28-4AD1-8DCA-EB7BAB0FC70C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A964B79A-EA28-4AD1-8DCA-EB7BAB0FC70C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A964B79A-EA28-4AD1-8DCA-EB7BAB0FC70C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {087A7F11-77A7-4C61-87A7-695047D7C884}
+	EndGlobalSection
+EndGlobal

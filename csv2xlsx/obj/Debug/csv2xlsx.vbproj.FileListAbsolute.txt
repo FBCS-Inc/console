@@ -1,0 +1,12 @@
+C:\Users\Edward.Hall\AppData\Local\Temporary Projects\xlconverter\bin\Debug\xlconverter.exe.config
+C:\Users\Edward.Hall\AppData\Local\Temporary Projects\xlconverter\bin\Debug\xlconverter.exe
+C:\Users\Edward.Hall\AppData\Local\Temporary Projects\xlconverter\bin\Debug\xlconverter.pdb
+C:\Users\Edward.Hall\AppData\Local\Temporary Projects\xlconverter\bin\Debug\xlconverter.xml
+C:\Users\Edward.Hall\AppData\Local\Temporary Projects\xlconverter\obj\Debug\csv2xlsx.vbproj.ResolveComReference.cache
+C:\Users\Edward.Hall\AppData\Local\Temporary Projects\xlconverter\obj\Debug\xlconverter.Resources.resources
+C:\Users\Edward.Hall\AppData\Local\Temporary Projects\xlconverter\obj\Debug\csv2xlsx.vbproj.GenerateResource.cache
+C:\Users\Edward.Hall\AppData\Local\Temporary Projects\xlconverter\obj\Debug\csv2xlsx.vbproj.CoreCompileInputs.cache
+C:\Users\Edward.Hall\AppData\Local\Temporary Projects\xlconverter\obj\Debug\xlconverter.exe
+C:\Users\Edward.Hall\AppData\Local\Temporary Projects\xlconverter\obj\Debug\xlconverter.xml
+C:\Users\Edward.Hall\AppData\Local\Temporary Projects\xlconverter\obj\Debug\xlconverter.pdb
+C:\Users\Edward.Hall\AppData\Local\Temporary Projects\xlconverter\obj\Debug\csv2xlsx.vbprojAssemblyReference.cache

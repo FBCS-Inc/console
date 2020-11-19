@@ -22,3 +22,15 @@ C:\Users\Edward.Hall\source\console\xl2csv\obj\Debug\xl2csv.vbproj.CoreCompileIn
 C:\Users\Edward.Hall\source\console\xl2csv\obj\Debug\xl2csv.exe
 C:\Users\Edward.Hall\source\console\xl2csv\obj\Debug\xl2csv.xml
 C:\Users\Edward.Hall\source\console\xl2csv\obj\Debug\xl2csv.pdb
+C:\Users\edward.hall\Source\Repos\FBCS-Inc\console\xl2csv\bin\Debug\xl2csv.exe.config
+C:\Users\edward.hall\Source\Repos\FBCS-Inc\console\xl2csv\bin\Debug\xl2csv.exe
+C:\Users\edward.hall\Source\Repos\FBCS-Inc\console\xl2csv\bin\Debug\xl2csv.pdb
+C:\Users\edward.hall\Source\Repos\FBCS-Inc\console\xl2csv\bin\Debug\xl2csv.xml
+C:\Users\edward.hall\Source\Repos\FBCS-Inc\console\xl2csv\obj\Debug\xl2csv.vbprojAssemblyReference.cache
+C:\Users\edward.hall\Source\Repos\FBCS-Inc\console\xl2csv\obj\Debug\xl2csv.vbproj.ResolveComReference.cache
+C:\Users\edward.hall\Source\Repos\FBCS-Inc\console\xl2csv\obj\Debug\xl2csv.Resources.resources
+C:\Users\edward.hall\Source\Repos\FBCS-Inc\console\xl2csv\obj\Debug\xl2csv.vbproj.GenerateResource.cache
+C:\Users\edward.hall\Source\Repos\FBCS-Inc\console\xl2csv\obj\Debug\xl2csv.vbproj.CoreCompileInputs.cache
+C:\Users\edward.hall\Source\Repos\FBCS-Inc\console\xl2csv\obj\Debug\xl2csv.exe
+C:\Users\edward.hall\Source\Repos\FBCS-Inc\console\xl2csv\obj\Debug\xl2csv.xml
+C:\Users\edward.hall\Source\Repos\FBCS-Inc\console\xl2csv\obj\Debug\xl2csv.pdb

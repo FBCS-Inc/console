@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
+    "\\csv2xlsx",
     "\\xl2csv"
   ],
-  "SelectedNode": "\\xl2csv\\My Project",
+  "SelectedNode": "\\csv2xlsx\\csv2xlsx.vbproj",
   "PreviewInSolutionExplorer": false
 }
